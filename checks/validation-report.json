@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-04T21:47:24.706124+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/tg01-pocket-shift/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "b32eaa765a7490709bac91ee8b4fa2d0195d4d2d429b3833683bfd1eee17af11",
+      "errors": []
+    },
+    {
+      "path": "midi/tg01-pocket-shift/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c994e49ad053d34e31b2673c024d15acf831ee0ea9dbd09ef8b965b0061fbb34",
+      "errors": []
+    },
+    {
+      "path": "midi/tg01-pocket-shift/drums.mid",
+      "bytes": 2954,
+      "sha256": "4273401ee3db947ec03bc12f6a2902ee6fc50f96ec9efb7b2144cf85eee1b035",
+      "errors": []
+    },
+    {
+      "path": "midi/tg01-pocket-shift/principal_motif.mid",
+      "bytes": 731,
+      "sha256": "a93ae179ca0da264338c4b03d213f67e38e47c9856ece153922cc9cd269a48a1",
+      "errors": []
+    },
+    {
+      "path": "midi/tg01-pocket-shift/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "e9695af287894f29b0b8082694ea55a02a33adf54de7eafdcddf5f01f138c857",
+      "errors": []
+    },
+    {
+      "path": "midi/tg01-pocket-shift/tg01-pocket-shift-combined.mid",
+      "bytes": 6080,
+      "sha256": "e1a14ea4bebec133125f5a383ad7b0e7fc49757ebd62302219342289254e6e6b",
+      "errors": []
+    },
+    {
+      "path": "midi/tg01-pocket-shift/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "50593ffdd0af215990e86589f334df1f04fbceb4b6717496583d5b322fc4b3e2",
+      "errors": []
+    },
+    {
+      "path": "midi/tg02-dry-step/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "0cb7dfb550a601d34a4c3846877ddf939707ff0e8de84d50fac0cf0f85138400",
+      "errors": []
+    },
+    {
+      "path": "midi/tg02-dry-step/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3d33a0f44f6da0867f8f5b71fa05611278cddced362b681ae70920d0de67302b",
+      "errors": []
+    },
+    {
+      "path": "midi/tg02-dry-step/drums.mid",
+      "bytes": 2954,
+      "sha256": "4273401ee3db947ec03bc12f6a2902ee6fc50f96ec9efb7b2144cf85eee1b035",
+      "errors": []
+    },
+    {
+      "path": "midi/tg02-dry-step/principal_motif.mid",
+      "bytes": 731,
+      "sha256": "56040eb55c5d8c3b3d2098d5647198b4bb8a7dd6d6a0eee6b5fe4e1a64082205",
+      "errors": []
+    },
+    {
+      "path": "midi/tg02-dry-step/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "bf37757a14eeb523ad4486b1bd1dcdf2a61588b34de789dc789166ddf4bff6e9",
+      "errors": []
+    },
+    {
+      "path": "midi/tg02-dry-step/tg02-dry-step-combined.mid",
+      "bytes": 6080,
+      "sha256": "2410238da07d19ffe15000f7f9d5b604e3edcc6385904b3e89879c682b7bf499",
+      "errors": []
+    },
+    {
+      "path": "midi/tg02-dry-step/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "91554d9e6adc9408f455310746c3fb86f809d0bbd346da5f566f0725ceaed524",
+      "errors": []
+    },
+    {
+      "path": "midi/tg03-side-room/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "4859e46c4419ec0e6564cfa27f7a9f9340beda406d4a22a5422257717592d6e8",
+      "errors": []
+    },
+    {
+      "path": "midi/tg03-side-room/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bdfb70e938adfcbd40a8aafe47f84840175f8a3e6727872c3081af51ae5ccb30",
+      "errors": []
+    },
+    {
+      "path": "midi/tg03-side-room/drums.mid",
+      "bytes": 2954,
+      "sha256": "4273401ee3db947ec03bc12f6a2902ee6fc50f96ec9efb7b2144cf85eee1b035",
+      "errors": []
+    },
+    {
+      "path": "midi/tg03-side-room/principal_motif.mid",
+      "bytes": 711,
+      "sha256": "f3a1d0eff54f59eaf552ba9fb7e405025bfd73c554a28fb3ce8747ec4ac3b3bf",
+      "errors": []
+    },
+    {
+      "path": "midi/tg03-side-room/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "b698c43ecd7b75e02dad3962bee773c180c4c033ad8b8ae0a5979ea692cc7239",
+      "errors": []
+    },
+    {
+      "path": "midi/tg03-side-room/tg03-side-room-combined.mid",
+      "bytes": 6060,
+      "sha256": "fc664f6b639ae1df43ddbf660e146fa4b42f2a2888774ecb5f7020b8fb6b5df5",
+      "errors": []
+    },
+    {
+      "path": "midi/tg03-side-room/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "daebbce2bfa4a4161e7953c30e1bfbe00541e2cc71c6395b3b115481ed2f8fec",
+      "errors": []
+    },
+    {
+      "path": "midi/tg04-open-loop/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "69aed57a5d81da2ea31a1cc7a5116a592d57789634ef616cdac742454ac3e677",
+      "errors": []
+    },
+    {
+      "path": "midi/tg04-open-loop/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1697648912e3946ff501ed0d36db4624781084795c39bedd922b23a823bf74eb",
+      "errors": []
+    },
+    {
+      "path": "midi/tg04-open-loop/drums.mid",
+      "bytes": 2954,
+      "sha256": "4273401ee3db947ec03bc12f6a2902ee6fc50f96ec9efb7b2144cf85eee1b035",
+      "errors": []
+    },
+    {
+      "path": "midi/tg04-open-loop/principal_motif.mid",
+      "bytes": 711,
+      "sha256": "b7e48ff72f5bcc39c1362154b6809c01e699b991b7425e2defab19c1ef395d01",
+      "errors": []
+    },
+    {
+      "path": "midi/tg04-open-loop/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "b19b29d26bda33aa2df5ce954d63c7ec8006a388c8e8aae4ff2daddc03b02869",
+      "errors": []
+    },
+    {
+      "path": "midi/tg04-open-loop/tg04-open-loop-combined.mid",
+      "bytes": 6060,
+      "sha256": "ebd69db9d19c2ec29b51adc6f73d569ba78a57c89487d03710f29bbde4d16e95",
+      "errors": []
+    },
+    {
+      "path": "midi/tg04-open-loop/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "85c4e25f1f9e01c199af0ebd11c5f82866149bfd6b4e0fa22aeee0877aa045c8",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

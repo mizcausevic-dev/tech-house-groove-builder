@@ -1,0 +1,430 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1931,
+      "sha256": "536ccea557fdd02b29b55cf9d2e48d9cd693e91b4edd6acf655397d3b7ecd160"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 150511,
+      "sha256": "5bfce2a1c60a9555e4605dfb72c78390bbe00147ad98499232284f43cf4211cf"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2115152,
+      "sha256": "003ca1d5cecfc5026e16a6b1c4cdaf04ee225e17ee2828a3d3fcb13a02f06f9e"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 408,
+      "sha256": "b273f8fc3026448250bc6ed7b09b2f9944ccb9b71957f331af0662cf2f990c95"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 186026,
+      "sha256": "bfd5b0a1f6b847f2cd68fa9758dda6d04a7b5c312ef70d5d92cc943beb72c9f4"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 716,
+      "sha256": "3aa8175988b6caaee8fbd05a0674194154d77cfc109730a2677cbd1917e4e2c5"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 716,
+      "sha256": "3aa8175988b6caaee8fbd05a0674194154d77cfc109730a2677cbd1917e4e2c5"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1916,
+      "sha256": "f7d56337375c4e56854f93656d6eae899eec7a309c8cc13b5b26cfe2c19d87ba"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 20310,
+      "sha256": "9424ae79215081fa29672fef78b09142119034f91ff1aa9446947700f9cd2129"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 97768,
+      "sha256": "e5916f7c3ef7b4bae973541c7ab4d5272df8c474bc1a523c4b4a76e9e9f2846e"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1788,
+      "sha256": "53e93b835302c0214a2e0874be78ae78c8760d79ee6c9769124ca2c53919ad98"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2340,
+      "sha256": "f6d9c56ed8dbf3f19b1dbf279dcc39531a3e726d1b68e8701f4a8746ee597284"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 800,
+      "sha256": "906ee0c54259128a85e8700b2f78a7626112835f5d7cb4a3e3570f8b8c48451b"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 935,
+      "sha256": "f6ae7ccdc16ee55f4a134fa3e78c17d58f8ff36a4067954be22e82dc1bf95a3c"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 389,
+      "sha256": "f00acb1ad2912e030498c86d4150c84a3f1130c9da957346ad6dd0350b58be91"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "483f5eb332c778a50793a1c5b4f119de9c39c55a112f90bfacca525ea1a4029d"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 391,
+      "sha256": "bd3f91aacd0ed2257269a7df925b5c05b5bf54e4bfc62a2da2f566800817ebf5"
+    },
+    {
+      "path": "clips/tg01-bass-hook-01.mid",
+      "bytes": 182,
+      "sha256": "1bdd81033584fcba5a757a8099c0e11812a87769b0bfe6b189a2af6bae10a9f3"
+    },
+    {
+      "path": "clips/tg01-bass-hook-02.mid",
+      "bytes": 182,
+      "sha256": "8ad1e4c878519dd2b642a68a26f9e2a88210067282229ce9bd256011a2fbafe6"
+    },
+    {
+      "path": "clips/tg01-bass-hook-03.mid",
+      "bytes": 182,
+      "sha256": "2a9fa0d2427b0e626f534d1b4954a9e6ee366391ccff515490017418925ed24a"
+    },
+    {
+      "path": "clips/tg01-bass-hook-04.mid",
+      "bytes": 182,
+      "sha256": "f01b43d631505c6d84fef2409201610a4e2447cf5e31b82933ec4c08fbc8c0bd"
+    },
+    {
+      "path": "clips/tg02-bass-hook-01.mid",
+      "bytes": 172,
+      "sha256": "ef67b3b2526ea380a6e7ab862fd62fd9cf06bd0296e0b5a87aa55213d3493d29"
+    },
+    {
+      "path": "clips/tg02-bass-hook-02.mid",
+      "bytes": 172,
+      "sha256": "07cb1b1d2067a65a2fb882e66b8cff2ab337ac16c1578b972a6393231ddff5a2"
+    },
+    {
+      "path": "clips/tg02-bass-hook-03.mid",
+      "bytes": 172,
+      "sha256": "8e7276c71801a86da2fdaab74f61fb9446d56f5fa1e4802b5073a026cd1e35f4"
+    },
+    {
+      "path": "clips/tg02-bass-hook-04.mid",
+      "bytes": 172,
+      "sha256": "46b76371b7b6757e3634c9094b020e7bab6e4a046e3fefb4a702886eaf09edb3"
+    },
+    {
+      "path": "clips/tg03-bass-hook-01.mid",
+      "bytes": 172,
+      "sha256": "70d333ef6b57558949f806f43c76194851b6d2a4d0977c435e9eececf6ef803d"
+    },
+    {
+      "path": "clips/tg03-bass-hook-02.mid",
+      "bytes": 172,
+      "sha256": "2d412b99e1be23aeaf05790d403463e9835d7f1456bbcc757bc1e903669afb63"
+    },
+    {
+      "path": "clips/tg03-bass-hook-03.mid",
+      "bytes": 172,
+      "sha256": "0fb9d62cc4addb8644320fd7bf3fa523a0917ec50e8cf54970059552312a3db6"
+    },
+    {
+      "path": "clips/tg03-bass-hook-04.mid",
+      "bytes": 172,
+      "sha256": "6c443be57bed7eb35d1e72514370496f015846d8ec6780b4f125da44b92826e3"
+    },
+    {
+      "path": "clips/tg04-bass-hook-01.mid",
+      "bytes": 172,
+      "sha256": "35b33cddd35f372f1938aa38c5bcc2baa79dd766a7cd828fbe13fc5512685538"
+    },
+    {
+      "path": "clips/tg04-bass-hook-02.mid",
+      "bytes": 172,
+      "sha256": "95c6cd6915344855b85868dd7c012b97e35cc47f9b908c357883188daf621da2"
+    },
+    {
+      "path": "clips/tg04-bass-hook-03.mid",
+      "bytes": 172,
+      "sha256": "0dd9900718f682a052d6638d690ecdb81b96e6374ed6ccfec55382e7b6a0eb48"
+    },
+    {
+      "path": "clips/tg04-bass-hook-04.mid",
+      "bytes": 172,
+      "sha256": "9950450b19be0eb3eabdbf0eb94932dd494abf816fd2275f741b5fa74f9c654e"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 439,
+      "sha256": "08388c400a228fb3f07a33e9d5347c6a5fc5f1039dba449df1e8be7a1ab1d950"
+    },
+    {
+      "path": "downloads/tech-house-groove-builder-midi.zip",
+      "bytes": 28332,
+      "sha256": "68ec5566e055435a2861d0cfecc5482d8ec395b278c49cbe9d967dc0584fc3a4"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 141376,
+      "sha256": "dac2205785e3e13b6bf35de77e94904321cedfd5c9a46e0a9d101cdd2966f234"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 1895226,
+      "sha256": "b910458b8ca5c36e4655ee24d96bff8466a473d8ea1d1436d57960960e1943f9"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 87,
+      "sha256": "e420e1dfed936dcf8e448a769c4aea94719e81a1f226cffc7fcdaa1ddb4496f4"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 626,
+      "sha256": "ed7140b59c34bee95e0ab54dc5e4da9e0c657ebea9738021b2fbe54bd965ef1d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9497,
+      "sha256": "336302371bc33956066bc10b37834f5358d92ad6cb065a1db0dd71132165018a"
+    },
+    {
+      "path": "midi/tg01-pocket-shift/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "b32eaa765a7490709bac91ee8b4fa2d0195d4d2d429b3833683bfd1eee17af11"
+    },
+    {
+      "path": "midi/tg01-pocket-shift/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c994e49ad053d34e31b2673c024d15acf831ee0ea9dbd09ef8b965b0061fbb34"
+    },
+    {
+      "path": "midi/tg01-pocket-shift/drums.mid",
+      "bytes": 2954,
+      "sha256": "4273401ee3db947ec03bc12f6a2902ee6fc50f96ec9efb7b2144cf85eee1b035"
+    },
+    {
+      "path": "midi/tg01-pocket-shift/principal_motif.mid",
+      "bytes": 731,
+      "sha256": "a93ae179ca0da264338c4b03d213f67e38e47c9856ece153922cc9cd269a48a1"
+    },
+    {
+      "path": "midi/tg01-pocket-shift/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "e9695af287894f29b0b8082694ea55a02a33adf54de7eafdcddf5f01f138c857"
+    },
+    {
+      "path": "midi/tg01-pocket-shift/tg01-pocket-shift-combined.mid",
+      "bytes": 6080,
+      "sha256": "e1a14ea4bebec133125f5a383ad7b0e7fc49757ebd62302219342289254e6e6b"
+    },
+    {
+      "path": "midi/tg01-pocket-shift/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "50593ffdd0af215990e86589f334df1f04fbceb4b6717496583d5b322fc4b3e2"
+    },
+    {
+      "path": "midi/tg02-dry-step/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "0cb7dfb550a601d34a4c3846877ddf939707ff0e8de84d50fac0cf0f85138400"
+    },
+    {
+      "path": "midi/tg02-dry-step/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3d33a0f44f6da0867f8f5b71fa05611278cddced362b681ae70920d0de67302b"
+    },
+    {
+      "path": "midi/tg02-dry-step/drums.mid",
+      "bytes": 2954,
+      "sha256": "4273401ee3db947ec03bc12f6a2902ee6fc50f96ec9efb7b2144cf85eee1b035"
+    },
+    {
+      "path": "midi/tg02-dry-step/principal_motif.mid",
+      "bytes": 731,
+      "sha256": "56040eb55c5d8c3b3d2098d5647198b4bb8a7dd6d6a0eee6b5fe4e1a64082205"
+    },
+    {
+      "path": "midi/tg02-dry-step/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "bf37757a14eeb523ad4486b1bd1dcdf2a61588b34de789dc789166ddf4bff6e9"
+    },
+    {
+      "path": "midi/tg02-dry-step/tg02-dry-step-combined.mid",
+      "bytes": 6080,
+      "sha256": "2410238da07d19ffe15000f7f9d5b604e3edcc6385904b3e89879c682b7bf499"
+    },
+    {
+      "path": "midi/tg02-dry-step/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "91554d9e6adc9408f455310746c3fb86f809d0bbd346da5f566f0725ceaed524"
+    },
+    {
+      "path": "midi/tg03-side-room/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "4859e46c4419ec0e6564cfa27f7a9f9340beda406d4a22a5422257717592d6e8"
+    },
+    {
+      "path": "midi/tg03-side-room/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bdfb70e938adfcbd40a8aafe47f84840175f8a3e6727872c3081af51ae5ccb30"
+    },
+    {
+      "path": "midi/tg03-side-room/drums.mid",
+      "bytes": 2954,
+      "sha256": "4273401ee3db947ec03bc12f6a2902ee6fc50f96ec9efb7b2144cf85eee1b035"
+    },
+    {
+      "path": "midi/tg03-side-room/principal_motif.mid",
+      "bytes": 711,
+      "sha256": "f3a1d0eff54f59eaf552ba9fb7e405025bfd73c554a28fb3ce8747ec4ac3b3bf"
+    },
+    {
+      "path": "midi/tg03-side-room/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "b698c43ecd7b75e02dad3962bee773c180c4c033ad8b8ae0a5979ea692cc7239"
+    },
+    {
+      "path": "midi/tg03-side-room/tg03-side-room-combined.mid",
+      "bytes": 6060,
+      "sha256": "fc664f6b639ae1df43ddbf660e146fa4b42f2a2888774ecb5f7020b8fb6b5df5"
+    },
+    {
+      "path": "midi/tg03-side-room/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "daebbce2bfa4a4161e7953c30e1bfbe00541e2cc71c6395b3b115481ed2f8fec"
+    },
+    {
+      "path": "midi/tg04-open-loop/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "69aed57a5d81da2ea31a1cc7a5116a592d57789634ef616cdac742454ac3e677"
+    },
+    {
+      "path": "midi/tg04-open-loop/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1697648912e3946ff501ed0d36db4624781084795c39bedd922b23a823bf74eb"
+    },
+    {
+      "path": "midi/tg04-open-loop/drums.mid",
+      "bytes": 2954,
+      "sha256": "4273401ee3db947ec03bc12f6a2902ee6fc50f96ec9efb7b2144cf85eee1b035"
+    },
+    {
+      "path": "midi/tg04-open-loop/principal_motif.mid",
+      "bytes": 711,
+      "sha256": "b7e48ff72f5bcc39c1362154b6809c01e699b991b7425e2defab19c1ef395d01"
+    },
+    {
+      "path": "midi/tg04-open-loop/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "b19b29d26bda33aa2df5ce954d63c7ec8006a388c8e8aae4ff2daddc03b02869"
+    },
+    {
+      "path": "midi/tg04-open-loop/tg04-open-loop-combined.mid",
+      "bytes": 6060,
+      "sha256": "ebd69db9d19c2ec29b51adc6f73d569ba78a57c89487d03710f29bbde4d16e95"
+    },
+    {
+      "path": "midi/tg04-open-loop/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "85c4e25f1f9e01c199af0ebd11c5f82866149bfd6b4e0fa22aeee0877aa045c8"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1140,
+      "sha256": "42fbb135bfc24bba82cc8f9c619a03c0b3adfd15d741bf028a508f67cc1fd14b"
+    },
+    {
+      "path": "preview/tech-house-groove-builder-simple-synth-preview.mp3",
+      "bytes": 1476484,
+      "sha256": "827a2e4f6ad8b1353beb8fe462c0527e56579e02f8de327d936e4e0005dc6bb0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3894,
+      "sha256": "29e91459656e741af8f5b62075ea03f7716f9e46521d0e91ca34ea060976b0e9"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 228,
+      "sha256": "df020e47b4b76458a6405c9508d2c18fc8e0683ccd7e880320b80c0482250136"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 209027,
+      "sha256": "8edeb0161fda4cc1262b6b237c598ea172cd60861b273f58d55708f3d6b82ded"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 165942,
+      "sha256": "c1df19d14b1ebc941ff45f4aeff7f5797d45475e4b0310d7550ba238091bb4be"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 133254,
+      "sha256": "e03e7c519f03cd72040aaadca094816efb407376fb327e5816ad8fd47a49f235"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 190,
+      "sha256": "5e0505538b65a0b7638a8a14c93bae46db2565c84488b6d96e5183d908987a7f"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 68196,
+      "sha256": "e35a3f2e1866d9ab4ef967ffed3735bad3a43826b44215b1deae4085aba4b5b4"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 6256,
+      "sha256": "ed4a6a81ce5e8eec7d297487103f67a69e7c9a7db0455bb0d0046d783fc7f70e"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

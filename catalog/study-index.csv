@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+tg01,Pocket Shift,pack-local equal-tempered pitch collection,C,126,4/4,480,32,61440,midi/tg01-pocket-shift/tg01-pocket-shift-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tg02,Dry Step,pack-local equal-tempered pitch collection,D#,126,4/4,480,32,61440,midi/tg02-dry-step/tg02-dry-step-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tg03,Side Room,pack-local equal-tempered pitch collection,F#,126,4/4,480,32,61440,midi/tg03-side-room/tg03-side-room-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tg04,Open Loop,pack-local equal-tempered pitch collection,C#,126,4/4,480,32,61440,midi/tg04-open-loop/tg04-open-loop-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

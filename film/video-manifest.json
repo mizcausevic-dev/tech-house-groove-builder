@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/tech-house-groove-builder-simple-synth-preview.mp3",
+  "source_audio_sha256": "827a2e4f6ad8b1353beb8fe462c0527e56579e02f8de327d936e4e0005dc6bb0",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "b910458b8ca5c36e4655ee24d96bff8466a473d8ea1d1436d57960960e1943f9",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

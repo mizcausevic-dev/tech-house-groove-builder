@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "tech-house-groove-builder",
+  "display_name": "Tech House Groove Builder Studies",
+  "brief_name": "Tech House Groove Builder",
+  "creative_intention": "Sparse bass figures and rhythmic chord accents.",
+  "rhythmic_direction": "A steady kick supports offset low notes and short chord replies.",
+  "palette": "Bass, clipped keys, restrained lead and percussion.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not claims of cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack tech-house-groove-builder",
+  "actual_tempo_bpm": 126,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "tg01",
+      "title": "Pocket Shift",
+      "tonic": "C",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "tg02",
+      "title": "Dry Step",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "tg03",
+      "title": "Side Room",
+      "tonic": "F#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "tg04",
+      "title": "Open Loop",
+      "tonic": "C#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}
