@@ -193,8 +193,8 @@
     },
     {
       "path": "downloads/tech-house-groove-builder-midi.zip",
-      "bytes": 30453,
-      "sha256": "0320120bb81a9bc452ee695303c7f07d3faa7f02ed89e5eb9c03f6de68824aee"
+      "bytes": 31440,
+      "sha256": "494da5eba0d3e3a77776c6e27f832e475ea0309e0261ad69041a8c296fdf7944"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -243,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9755,
-      "sha256": "102328dc81f6016d3bd24e723c76caf01a67955c7675922b0ce65116bd5fe498"
+      "bytes": 9945,
+      "sha256": "b44e6ef07328c67e9c2828fcf376055d1be160964b9a56cb1cbba1edc63f03b6"
     },
     {
       "path": "midi/tg01-pocket-shift/chord_pulse.mid",
@@ -387,6 +387,11 @@
       "sha256": "85c4e25f1f9e01c199af0ebd11c5f82866149bfd6b4e0fa22aeee0877aa045c8"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 795,
       "sha256": "b2baf467f84e99ca630571022492afc614e97438226479ee0b2a6040d8aae60b"
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4059,
-      "sha256": "72365d23f3e08c72267235ffe406febed86687a30f883e92559e55ee27c154f3"
+      "bytes": 4174,
+      "sha256": "f13e242fc522f11ac2660904eafd58efd65e17a62eded631dc403fa0c207f66c"
     },
     {
       "path": "REVISION.md",
